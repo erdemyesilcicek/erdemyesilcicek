@@ -1,13 +1,13 @@
 <h1 align="center">Merhaba, ben Erdem</h1>
 <h3 align="center">Genç bir Kotlin Developer / Oyun Geliştiricisi..</h3>
 
-- 🔭 I’m currently working on **HorrorGame**
+- 🔭 I’m currently working on **Password Generator**
 
 - 👨‍💻 All of my projects are available at **https://github.com/erdmyslcck9**
 
 - 🌱 I’m currently learning **Kotlin, Unity**
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Kotlin, Unity**
 
 - 📫 How to reach me **erdmyslcck9@outlook.com**
 
