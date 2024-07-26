@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bugrarslan&label=Profile%20views&color=0e75b6&style=flat" alt="erdmyslcck9" /> </p>
 
-- 🔭 I’m currently working on [Sentinel - Password Generator](https://github.com/bugrarslan/sentinel)
+- 🔭 I’m currently working on [Sentinel](https://github.com/erdmyslcck9/Sentinel)
 
 - 👨‍💻 All of my projects are available at **https://github.com/erdmyslcck9**
 
