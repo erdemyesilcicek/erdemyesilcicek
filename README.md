@@ -1,8 +1,6 @@
 <h1 align="center">Hi. It's me, Erdem!</h1>
 <h3 align="center">A passionate Junior Kotlin developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erdmyslcck9&label=Profile%20views&color=0e75b6&style=flat" alt="erdmyslcck9" /> </p>
-
 - 🔭 I’m currently working on [Sentinel](https://github.com/erdmyslcck9/Sentinel)
 
 - 👨‍💻 All of my projects are available at **https://github.com/erdmyslcck9**
